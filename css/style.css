@@ -12,4 +12,7 @@ div {
 
 div img {
     display: block; /* 불필요한 여백 제거 */
+    max-width: 100%;
+    height: auto;
+
 }
